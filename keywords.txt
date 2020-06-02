@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For ACS773
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ACS773	KEYWORD1
+ACS773_type	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+calibrate	KEYWORD2
+setSensitivity	KEYWORD2
+getCurrentDC	KEYWORD2
+getCurrentAC	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ACS773LCB_050B   LITERAL1
+ACS773LCB_100B   LITERAL1
+ACS773KCB_150B   LITERAL1
+ACS773ECB_200B   LITERAL1
+ACS773ECB_250U   LITERAL1
